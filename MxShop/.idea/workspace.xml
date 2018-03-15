@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22b3675f-af88-4283-9a6d-6dedb3f7749a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MxShop$import_goods_data.coverage" NAME="import_goods_data Coverage Results" MODIFIED="1509534017441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/MxShop$import_category_data.coverage" NAME="import_category_data Coverage Results" MODIFIED="1509531549760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_tools" />
+    <SUITE FILE_PATH="coverage/MxShop$manage.coverage" NAME="manage Coverage Results" MODIFIED="1511686551771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MxShop/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="36" column="46" lean-forward="false" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+              <folding>
+                <element signature="e#24#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MxShop/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+              <folding>
+                <element signature="e#640#681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>related_name</find>
+      <find>brands</find>
+      <find>related</find>
+      <find>iteritems</find>
+      <find>future</find>
+      <find>future.utils</find>
+      <find>__unicode__</find>
+      <find>MEDIA_URL</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/apps/goods/migrations</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/users/admin.py" />
+        <option value="$PROJECT_DIR$/apps/trade/models.py" />
+        <option value="$PROJECT_DIR$/apps/user_operation/models.py" />
+        <option value="$PROJECT_DIR$/db_tools/__init__.py" />
+        <option value="$PROJECT_DIR$/db_tools/data/__init__.py" />
+        <option value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+        <option value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+        <option value="$PROJECT_DIR$/extra_apps/xadmin/plugins/wizard.py" />
+        <option value="$PROJECT_DIR$/extra_apps/xadmin/sites.py" />
+        <option value="$PROJECT_DIR$/extra_apps/xadmin/plugins/quickfilter.py" />
+        <option value="$PROJECT_DIR$/extra_apps/xadmin/plugins/filters.py" />
+        <option value="$PROJECT_DIR$/extra_apps/xadmin/plugins/export.py" />
+        <option value="$PROJECT_DIR$/apps/goods/view_base.py" />
+        <option value="$PROJECT_DIR$/apps/users/models.py" />
+        <option value="$PROJECT_DIR$/apps/goods/views_base.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/apps/goods/filters.py" />
+        <option value="$PROJECT_DIR$/apps/goods/serializers.py" />
+        <option value="$PROJECT_DIR$/apps/goods/views.py" />
+        <option value="$PROJECT_DIR$/MxShop/urls.py" />
+        <option value="$PROJECT_DIR$/MxShop/settings.py" />
+        <option value="$PROJECT_DIR$/apps/goods/adminx.py" />
+        <option value="$PROJECT_DIR$/apps/goods/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1094" />
+    <option name="y" value="-1177" />
+    <option name="width" value="1440" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MxShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MxShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxShop" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MxShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxShop" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MxShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MxShop" type="462c0819:PsiDirectoryNode" />
+              <item name="MxShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media/brands" />
+      <recent name="$PROJECT_DIR$/apps" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/goods" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.MxShop">
+    <configuration name="MxShop" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxShop.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MxShop" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration name="import_category_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MxShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_category_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="import_goods_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MxShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_tools/import_goods_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MxShop" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Django server.MxShop" />
+      <item index="1" class="java.lang.String" itemvalue="Python.import_category_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.import_goods_data" />
+      <item index="3" class="java.lang.String" itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+        <item index="1" class="java.lang.String" itemvalue="Python.import_goods_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.import_category_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b3675f-af88-4283-9a6d-6dedb3f7749a" name="Default" comment="" />
+      <created>1509437061064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509437061064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1094" y="-1177" width="1440" height="837" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15522175" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20862308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12160229" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/db_tools/import_category_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/data/product_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_tools/import_goods_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/vendors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/wizard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/plugins/quickfilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extra_apps/xadmin/sites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689">
+          <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="469" column="6" lean-forward="false" selection-start-line="469" selection-start-column="6" selection-end-line="469" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="791" column="8" lean-forward="false" selection-start-line="791" selection-start-column="8" selection-end-line="791" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="519" column="8" lean-forward="false" selection-start-line="519" selection-start-column="8" selection-end-line="519" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/db/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="834" column="4" lean-forward="false" selection-start-line="834" selection-start-column="4" selection-end-line="834" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="65" column="22" lean-forward="true" selection-start-line="64" selection-start-column="4" selection-end-line="65" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="122" column="45" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework</OriginalElement>
+          <nodes>
+            <node x="" y="">rest_framework.fields.MultipleChoiceField</node>
+            <node x="" y="">typing.MutableMapping</node>
+            <node x="" y="">django.test.testcases.TestCase</node>
+            <node x="" y="">rest_framework.fields.FileField</node>
+            <node x="" y="">rest_framework.throttling.BaseThrottle</node>
+            <node x="" y="">rest_framework.relations.HyperlinkedRelatedField</node>
+            <node x="" y="">django.utils.six.Iterator</node>
+            <node x="" y="">rest_framework.test.APITestCase</node>
+            <node x="" y="">rest_framework.schemas.generators.LinkNode</node>
+            <node x="" y="">rest_framework.exceptions.UnsupportedMediaType</node>
+            <node x="" y="">rest_framework.fields.TimeField</node>
+            <node x="" y="">rest_framework.relations.PrimaryKeyRelatedField</node>
+            <node x="" y="">rest_framework.fields.DurationField</node>
+            <node x="" y="">rest_framework.filters.DjangoObjectPermissionsFilter</node>
+            <node x="" y="">rest_framework.fields.BooleanField</node>
+            <node x="" y="">rest_framework.exceptions.NotFound</node>
+            <node x="" y="">rest_framework.fields.DateTimeField</node>
+            <node x="" y="">rest_framework.routers.BaseRouter</node>
+            <node x="" y="">rest_framework.versioning.AcceptHeaderVersioning</node>
+            <node x="" y="">django.db.migrations.migration.Migration</node>
+            <node x="" y="">django.db.models.base.Model</node>
+            <node x="" y="">rest_framework.versioning.HostNameVersioning</node>
+            <node x="" y="">rest_framework.renderers.AdminRenderer</node>
+            <node x="" y="">rest_framework.viewsets.GenericViewSet</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.ReturnDict</node>
+            <node x="" y="">rest_framework.mixins.UpdateModelMixin</node>
+            <node x="" y="">rest_framework.permissions.DjangoObjectPermissions</node>
+            <node x="" y="">rest_framework.fields.FloatField</node>
+            <node x="" y="">rest_framework.authentication.BasicAuthentication</node>
+            <node x="" y="">_abcoll.Container</node>
+            <node x="" y="">rest_framework.compat.CustomValidatorMessage</node>
+            <node x="" y="">markdown.preprocessors.Preprocessor</node>
+            <node x="" y="">rest_framework.fields.Field</node>
+            <node x="" y="">rest_framework.parsers.FileUploadParser</node>
+            <node x="" y="">rest_framework.throttling.AnonRateThrottle</node>
+            <node x="" y="">rest_framework.parsers.BaseParser</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.NestedBoundField</node>
+            <node x="" y="">typing.Iterable</node>
+            <node x="" y="">django.contrib.admin.options.ModelAdmin</node>
+            <node x="" y="">rest_framework.schemas.generators.EndpointEnumerator</node>
+            <node x="" y="">rest_framework.filters.OrderingFilter</node>
+            <node x="" y="">rest_framework.compat.MinLengthValidator</node>
+            <node x="" y="">rest_framework.fields.DecimalField</node>
+            <node x="" y="">rest_framework.parsers.MultiPartParser</node>
+            <node x="" y="">rest_framework.exceptions.ErrorDetail</node>
+            <node x="" y="">rest_framework.compat.MinValueValidator</node>
+            <node x="" y="">rest_framework.fields.CharField</node>
+            <node x="" y="">_abcoll.Iterable</node>
+            <node x="" y="">text_type</node>
+            <node x="" y="">rest_framework.versioning.QueryParameterVersioning</node>
+            <node x="" y="">_abcoll.MutableMapping</node>
+            <node x="" y="">rest_framework.exceptions.NotAuthenticated</node>
+            <node x="" y="">typing.Sized</node>
+            <node x="" y="">rest_framework.generics.RetrieveAPIView</node>
+            <node x="" y="">rest_framework.metadata.BaseMetadata</node>
+            <node x="" y="">rest_framework.relations.ManyRelatedField</node>
+            <node x="" y="">rest_framework.relations.HyperlinkedIdentityField</node>
+            <node x="" y="">django.views.generic.base.View</node>
+            <node x="" y="">rest_framework.renderers.CoreJSONRenderer</node>
+            <node x="" y="">rest_framework.relations.StringRelatedField</node>
+            <node x="" y="">list</node>
+            <node x="" y="">rest_framework.authentication.CSRFCheck</node>
+            <node x="" y="">rest_framework.fields.SerializerMethodField</node>
+            <node x="" y="">rest_framework.relations.RelatedField</node>
+            <node x="" y="">rest_framework.exceptions.AuthenticationFailed</node>
+            <node x="" y="">rest_framework.exceptions.ParseError</node>
+            <node x="" y="">rest_framework.permissions.IsAdminUser</node>
+            <node x="" y="">rest_framework.fields.CurrentUserDefault</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.BoundField</node>
+            <node x="" y="">rest_framework.renderers.HTMLFormRenderer</node>
+            <node x="" y="">rest_framework.templatetags.rest_framework.CodeNode</node>
+            <node x="" y="">django.db.models.base.ModelBase</node>
+            <node x="" y="">rest_framework.permissions.BasePermission</node>
+            <node x="" y="">rest_framework.mixins.ListModelMixin</node>
+            <node x="" y="">rest_framework.fields.IntegerField</node>
+            <node x="" y="">rest_framework.validators.UniqueTogetherValidator</node>
+            <node x="" y="">rest_framework.fields.NullBooleanField</node>
+            <node x="" y="">rest_framework.settings.APISettings</node>
+            <node x="" y="">django.template.response.SimpleTemplateResponse</node>
+            <node x="" y="">rest_framework.serializers.ModelSerializer</node>
+            <node x="" y="">rest_framework.exceptions.APIException</node>
+            <node x="" y="">rest_framework.fields.FilePathField</node>
+            <node x="" y="">rest_framework.throttling.ScopedRateThrottle</node>
+            <node x="" y="">rest_framework.request.ForcedAuthentication</node>
+            <node x="" y="">rest_framework.fields.IPAddressField</node>
+            <node x="" y="">BaseException</node>
+            <node x="" y="">django.test.testcases.LiveServerTestCase</node>
+            <node x="" y="">rest_framework.throttling.UserRateThrottle</node>
+            <node x="" y="">_abcoll.Mapping</node>
+            <node x="" y="">rest_framework.generics.ListAPIView</node>
+            <node x="" y="">Exception</node>
+            <node x="" y="">rest_framework.schemas.inspectors.AutoSchema</node>
+            <node x="" y="">rest_framework.authtoken.management.commands.drf_create_token.Command</node>
+            <node x="" y="">rest_framework.viewsets.ReadOnlyModelViewSet</node>
+            <node x="" y="">rest_framework.relations.Hyperlink</node>
+            <node x="" y="">rest_framework.fields.UUIDField</node>
+            <node x="" y="">rest_framework.fields.SlugField</node>
+            <node x="" y="">rest_framework.parsers.JSONParser</node>
+            <node x="" y="">DjangoMinLengthValidator</node>
+            <node x="" y="">rest_framework.routers.APIRootView</node>
+            <node x="" y="">rest_framework.fields.RegexField</node>
+            <node x="" y="">rest_framework.versioning.URLPathVersioning</node>
+            <node x="" y="">rest_framework.viewsets.ModelViewSet</node>
+            <node x="" y="">rest_framework.serializers.SerializerMetaclass</node>
+            <node x="" y="">rest_framework.test.CoreAPIClient</node>
+            <node x="" y="">type</node>
+            <node x="" y="">rest_framework.parsers.DataAndFiles</node>
+            <node x="" y="">rest_framework.generics.UpdateAPIView</node>
+            <node x="" y="">rest_framework.views.APIView</node>
+            <node x="" y="">rest_framework.renderers.TemplateHTMLRenderer</node>
+            <node x="" y="">rest_framework.serializers.HyperlinkedModelSerializer</node>
+            <node x="" y="">django.test.client.ClientHandler</node>
+            <node x="" y="">typing.Sequence</node>
+            <node x="" y="">rest_framework.test.RequestsClient</node>
+            <node x="" y="">rest_framework.validators.UniqueForYearValidator</node>
+            <node x="" y="">rest_framework.filters.BaseFilterBackend</node>
+            <node x="" y="">rest_framework.authentication.RemoteUserAuthentication</node>
+            <node x="" y="">rest_framework.compat.CodeBlockPreprocessor</node>
+            <node x="" y="">DjangoMinValueValidator</node>
+            <node x="" y="">rest_framework.negotiation.DefaultContentNegotiation</node>
+            <node x="" y="">rest_framework.exceptions.MethodNotAllowed</node>
+            <node x="" y="">rest_framework.fields.CreateOnlyDefault</node>
+            <node x="" y="">rest_framework.fields.ReadOnlyField</node>
+            <node x="" y="">rest_framework.renderers.DocumentationRenderer</node>
+            <node x="" y="">django.http.response.HttpResponse</node>
+            <node x="" y="">rest_framework.exceptions.Throttled</node>
+            <node x="" y="">_abcoll.Sequence</node>
+            <node x="" y="">rest_framework.test.APILiveServerTestCase</node>
+            <node x="" y="">rest_framework.renderers.StaticHTMLRenderer</node>
+            <node x="" y="">rest_framework.fields.SkipField</node>
+            <node x="" y="">rest_framework.test.APIRequestFactory</node>
+            <node x="" y="">django.http.response.HttpResponseBase</node>
+            <node x="" y="">rest_framework.fields.ModelField</node>
+            <node x="" y="">rest_framework.pagination.CursorPagination</node>
+            <node x="" y="">rest_framework.compat.MaxLengthValidator</node>
+            <node x="" y="">django.middleware.csrf.CsrfViewMiddleware</node>
+            <node x="" y="">django.forms.widgets.MediaDefiningClass</node>
+            <node x="" y="">rest_framework.test.APISimpleTestCase</node>
+            <node x="" y="">json.encoder.JSONEncoder</node>
+            <node x="" y="">typing.Reversible</node>
+            <node x="" y="">rest_framework.metadata.SimpleMetadata</node>
+            <node x="" y="">rest_framework.relations.PKOnlyObject</node>
+            <node x="" y="">rest_framework.viewsets.ViewSetMixin</node>
+            <node x="" y="">typing.Mapping</node>
+            <node x="" y="">rest_framework.validators.UniqueValidator</node>
+            <node x="" y="">rest_framework.throttling.SimpleRateThrottle</node>
+            <node x="" y="">rest_framework.fields.DictField</node>
+            <node x="" y="">_abcoll.Sized</node>
+            <node x="" y="">DjangoClient</node>
+            <node x="" y="">rest_framework.validators.UniqueForMonthValidator</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.BindingDict</node>
+            <node x="" y="">rest_framework.validators.UniqueForDateValidator</node>
+            <node x="" y="">rest_framework.fields.EmailField</node>
+            <node x="" y="">rest_framework.permissions.AllowAny</node>
+            <node x="" y="">rest_framework.fields.ListField</node>
+            <node x="" y="">rest_framework.exceptions.NotAcceptable</node>
+            <node x="" y="">rest_framework.exceptions.ValidationError</node>
+            <node x="" y="">rest_framework.fields.HiddenField</node>
+            <node x="" y="">object</node>
+            <node x="" y="">rest_framework.serializers.BaseSerializer</node>
+            <node x="" y="">rest_framework.request.Request</node>
+            <node x="" y="">django.contrib.admin.options.BaseModelAdmin</node>
+            <node x="" y="">rest_framework.generics.DestroyAPIView</node>
+            <node x="" y="">rest_framework.renderers.BaseRenderer</node>
+            <node x="" y="">HTTPAdapter</node>
+            <node x="" y="">rest_framework.mixins.DestroyModelMixin</node>
+            <node x="" y="">rest_framework.permissions.DjangoModelPermissions</node>
+            <node x="" y="">django.template.base.Node</node>
+            <node x="" y="">rest_framework.authtoken.admin.TokenAdmin</node>
+            <node x="" y="">rest_framework.compat.MaxValueValidator</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.ReturnList</node>
+            <node x="" y="">unittest.case.TestCase</node>
+            <node x="" y="">rest_framework.utils.field_mapping.ClassLookupDict</node>
+            <node x="" y="">rest_framework.parsers.FormParser</node>
+            <node x="" y="">rest_framework.test.APIClient</node>
+            <node x="" y="">rest_framework.validators.BaseUniqueForValidator</node>
+            <node x="" y="">django.core.management.base.BaseCommand</node>
+            <node x="" y="">django.test.testcases.TransactionTestCase</node>
+            <node x="" y="">rest_framework.utils.serializer_helpers.JSONBoundField</node>
+            <node x="" y="">rest_framework.generics.RetrieveUpdateDestroyAPIView</node>
+            <node x="" y="">rest_framework.renderers.BrowsableAPIRenderer</node>
+            <node x="" y="">rest_framework.schemas.inspectors.ManualSchema</node>
+            <node x="" y="">rest_framework.fields.ImageField</node>
+            <node x="" y="">rest_framework.authentication.SessionAuthentication</node>
+            <node x="" y="">rest_framework.routers.SimpleRouter</node>
+            <node x="" y="">rest_framework.utils.mediatypes._MediaType</node>
+            <node x="" y="">rest_framework.relations.SlugRelatedField</node>
+            <node x="" y="">rest_framework.fields.URLField</node>
+            <node x="" y="">typing.MutableSequence</node>
+            <node x="" y="">rest_framework.permissions.IsAuthenticated</node>
+            <node x="" y="">DjangoMaxLengthValidator</node>
+            <node x="" y="">rest_framework.authtoken.apps.AuthTokenConfig</node>
+            <node x="" y="">rest_framework.schemas.generators.SchemaGenerator</node>
+            <node x="" y="">rest_framework.pagination.BasePagination</node>
+            <node x="" y="">rest_framework.utils.encoders.JSONEncoder</node>
+            <node x="" y="">abc.ABCMeta</node>
+            <node x="" y="">DjangoRequestFactory</node>
+            <node x="" y="">django.test.testcases.SimpleTestCase</node>
+            <node x="" y="">dict</node>
+            <node x="" y="">django.apps.config.AppConfig</node>
+            <node x="" y="">rest_framework.test.HeaderDict</node>
+            <node x="" y="">rest_framework.test.ForceAuthClientHandler</node>
+            <node x="" y="">django.core.handlers.base.BaseHandler</node>
+            <node x="" y="">collections.OrderedDict</node>
+            <node x="" y="">rest_framework.request.override_method</node>
+            <node x="" y="">rest_framework.viewsets.ViewSet</node>
+            <node x="" y="">_abcoll.Iterator</node>
+            <node x="" y="">rest_framework.fields.ChoiceField</node>
+            <node x="" y="">rest_framework.generics.RetrieveUpdateAPIView</node>
+            <node x="" y="">rest_framework.generics.RetrieveDestroyAPIView</node>
+            <node x="" y="">rest_framework.fields.empty</node>
+            <node x="" y="">rest_framework.routers.DefaultRouter</node>
+            <node x="" y="">Client</node>
+            <node x="" y="">rest_framework.pagination.LimitOffsetPagination</node>
+            <node x="" y="">rest_framework.mixins.RetrieveModelMixin</node>
+            <node x="" y="">rest_framework.authtoken.models.Token</node>
+            <node x="" y="">rest_framework.test.DjangoTestAdapter</node>
+            <node x="" y="">rest_framework.serializers.ListSerializer</node>
+            <node x="" y="">rest_framework.permissions.IsAuthenticatedOrReadOnly</node>
+            <node x="" y="">rest_framework.test.APITransactionTestCase</node>
+            <node x="" y="">rest_framework.test.MockOriginalResponse</node>
+            <node x="" y="">rest_framework.renderers.MultiPartRenderer</node>
+            <node x="" y="">rest_framework.generics.GenericAPIView</node>
+            <node x="" y="">rest_framework.apps.RestFrameworkConfig</node>
+            <node x="" y="">django.utils.deprecation.MiddlewareMixin</node>
+            <node x="" y="">rest_framework.versioning.BaseVersioning</node>
+            <node x="" y="">rest_framework.authtoken.views.ObtainAuthToken</node>
+            <node x="" y="">rest_framework.fields.JSONField</node>
+            <node x="" y="">rest_framework.fields.DateField</node>
+            <node x="" y="">_abcoll.Callable</node>
+            <node x="" y="">rest_framework.serializers.CharMappingField</node>
+            <node x="" y="">markdown.util.Processor</node>
+            <node x="" y="">rest_framework.authtoken.serializers.AuthTokenSerializer</node>
+            <node x="" y="">rest_framework.mixins.CreateModelMixin</node>
+            <node x="" y="">typing.Container</node>
+            <node x="" y="">rest_framework.response.Response</node>
+            <node x="" y="">rest_framework.schemas.inspectors.ViewInspector</node>
+            <node x="" y="">rest_framework.generics.CreateAPIView</node>
+            <node x="" y="">rest_framework.filters.SearchFilter</node>
+            <node x="" y="">_abcoll.Hashable</node>
+            <node x="" y="">DjangoMaxValueValidator</node>
+            <node x="" y="">rest_framework.fields._UnvalidatedField</node>
+            <node x="" y="">rest_framework.negotiation.BaseContentNegotiation</node>
+            <node x="" y="">rest_framework.exceptions.PermissionDenied</node>
+            <node x="" y="">rest_framework.request.Empty</node>
+            <node x="" y="">rest_framework.authentication.TokenAuthentication</node>
+            <node x="" y="">rest_framework.authentication.BaseAuthentication</node>
+            <node x="" y="">HTTPHeaderDict</node>
+            <node x="" y="">rest_framework.schemas.views.SchemaView</node>
+            <node x="" y="">Session</node>
+            <node x="" y="">rest_framework.generics.ListCreateAPIView</node>
+            <node x="" y="">rest_framework.pagination.PageNumberPagination</node>
+            <node x="" y="">rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly</node>
+            <node x="" y="">rest_framework.renderers.JSONRenderer</node>
+            <node x="" y="">rest_framework.renderers.SchemaJSRenderer</node>
+            <node x="" y="">rest_framework.versioning.NamespaceVersioning</node>
+            <node x="" y="">rest_framework.serializers.Serializer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6271877195827252" x="14368.0" y="1377.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/views.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/views.py</OriginalElement>
+          <nodes>
+            <node x="" y="">rest_framework.views.APIView</node>
+            <node x="" y="">_abcoll.Hashable</node>
+            <node x="" y="">object</node>
+            <node x="" y="">django.views.generic.base.View</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="115.0" y="135.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/mixins.py</OriginalElement>
+          <nodes>
+            <node x="" y="">rest_framework.mixins.RetrieveModelMixin</node>
+            <node x="" y="">rest_framework.mixins.CreateModelMixin</node>
+            <node x="" y="">_abcoll.Hashable</node>
+            <node x="" y="">object</node>
+            <node x="" y="">rest_framework.mixins.ListModelMixin</node>
+            <node x="" y="">rest_framework.mixins.DestroyModelMixin</node>
+            <node x="" y="">rest_framework.mixins.UpdateModelMixin</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.657946370176586" x="755.0" y="115.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serializers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/serializers.py</OriginalElement>
+          <nodes>
+            <node x="" y="">type</node>
+            <node x="" y="">rest_framework.serializers.HyperlinkedModelSerializer</node>
+            <node x="" y="">_abcoll.Iterable</node>
+            <node x="" y="">_abcoll.Iterator</node>
+            <node x="" y="">rest_framework.fields.DictField</node>
+            <node x="" y="">object</node>
+            <node x="" y="">rest_framework.serializers.BaseSerializer</node>
+            <node x="" y="">rest_framework.serializers.Serializer</node>
+            <node x="" y="">_abcoll.Callable</node>
+            <node x="" y="">rest_framework.serializers.ModelSerializer</node>
+            <node x="" y="">rest_framework.serializers.CharMappingField</node>
+            <node x="" y="">rest_framework.fields.Field</node>
+            <node x="" y="">rest_framework.serializers.SerializerMetaclass</node>
+            <node x="" y="">rest_framework.serializers.ListSerializer</node>
+            <node x="" y="">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7343065693430657" x="675.0" y="255.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewsets.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/viewsets.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/viewsets.py</OriginalElement>
+          <nodes>
+            <node x="" y="">rest_framework.mixins.CreateModelMixin</node>
+            <node x="" y="">object</node>
+            <node x="" y="">rest_framework.viewsets.GenericViewSet</node>
+            <node x="" y="">rest_framework.viewsets.ModelViewSet</node>
+            <node x="" y="">django.views.generic.base.View</node>
+            <node x="" y="">rest_framework.mixins.UpdateModelMixin</node>
+            <node x="" y="">rest_framework.viewsets.ViewSet</node>
+            <node x="" y="">rest_framework.viewsets.ViewSetMixin</node>
+            <node x="" y="">rest_framework.generics.GenericAPIView</node>
+            <node x="" y="">rest_framework.views.APIView</node>
+            <node x="" y="">rest_framework.viewsets.ReadOnlyModelViewSet</node>
+            <node x="" y="">rest_framework.mixins.DestroyModelMixin</node>
+            <node x="" y="">rest_framework.mixins.RetrieveModelMixin</node>
+            <node x="" y="">rest_framework.mixins.ListModelMixin</node>
+            <node x="" y="">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.46660482374768086" x="1133.0" y="511.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/generics.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/jyang2/anaconda/envs/django27/lib/python2.7/site-packages/rest_framework/generics.py</OriginalElement>
+          <nodes>
+            <node x="0.0" y="510.0">rest_framework.generics.ListCreateAPIView</node>
+            <node x="407.3060344827586" y="330.0">rest_framework.mixins.CreateModelMixin</node>
+            <node x="2309.6666666666665" y="510.0">rest_framework.generics.UpdateAPIView</node>
+            <node x="1287.6666666666665" y="80.0">object</node>
+            <node x="1212.0" y="510.0">rest_framework.generics.RetrieveDestroyAPIView</node>
+            <node x="1602.6666666666665" y="510.0">rest_framework.generics.RetrieveAPIView</node>
+            <node x="320.0" y="510.0">rest_framework.generics.ListAPIView</node>
+            <node x="1054.6666666666665" y="170.0">django.views.generic.base.View</node>
+            <node x="2461.037356321839" y="330.0">rest_framework.mixins.UpdateModelMixin</node>
+            <node x="1909.6666666666665" y="510.0">rest_framework.generics.RetrieveUpdateDestroyAPIView</node>
+            <node x="1026.6666666666665" y="330.0">rest_framework.generics.GenericAPIView</node>
+            <node x="1059.1666666666665" y="250.0">rest_framework.views.APIView</node>
+            <node x="2612.6666666666665" y="510.0">rest_framework.generics.RetrieveUpdateAPIView</node>
+            <node x="1383.0560344827586" y="330.0">rest_framework.mixins.DestroyModelMixin</node>
+            <node x="608.0" y="510.0">rest_framework.generics.CreateAPIView</node>
+            <node x="1938.935344827586" y="330.0">rest_framework.mixins.RetrieveModelMixin</node>
+            <node x="906.0" y="510.0">rest_framework.generics.DestroyAPIView</node>
+            <node x="27.556034482758605" y="330.0">rest_framework.mixins.ListModelMixin</node>
+            <node x="1243.1666666666665" y="0.0">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="object" target="_abcoll.Hashable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveDestroyAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-111.66666666666674" y="-15.0" />
+              <point x="1267.8333333333333" y="450.0" />
+              <point x="1169.1666666666665" y="450.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.ListCreateAPIView" target="rest_framework.mixins.CreateModelMixin">
+              <point x="0.0" y="-15.0" />
+              <point x="150.0" y="410.0" />
+              <point x="478.5560344827586" y="410.0" />
+              <point x="-71.25" y="15.0" />
+            </edge>
+            <edge source="rest_framework.mixins.CreateModelMixin" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="549.8060344827586" y="140.0" />
+              <point x="1305.6666666666665" y="140.0" />
+              <point x="-18.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateDestroyAPIView" target="rest_framework.mixins.UpdateModelMixin">
+              <point x="142.5" y="-15.0" />
+              <point x="2242.1666666666665" y="490.0" />
+              <point x="2509.3706896551726" y="490.0" />
+              <point x="-96.66666666666652" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-110.66666666666652" y="-15.0" />
+              <point x="2668.0" y="400.0" />
+              <point x="1295.8333333333335" y="400.0" />
+              <point x="126.66666666666674" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateAPIView" target="rest_framework.mixins.UpdateModelMixin">
+              <point x="110.66666666666652" y="-15.0" />
+              <point x="2889.333333333333" y="380.0" />
+              <point x="2702.7040229885056" y="380.0" />
+              <point x="96.66666666666652" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveDestroyAPIView" target="rest_framework.mixins.RetrieveModelMixin">
+              <point x="111.66666666666674" y="-15.0" />
+              <point x="1491.1666666666667" y="480.0" />
+              <point x="1975.685344827586" y="480.0" />
+              <point x="-110.25" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveAPIView" target="rest_framework.mixins.RetrieveModelMixin">
+              <point x="71.75" y="-15.0" />
+              <point x="1817.9166666666665" y="490.0" />
+              <point x="2049.185344827586" y="490.0" />
+              <point x="-36.75" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.DestroyAPIView" target="rest_framework.mixins.DestroyModelMixin">
+              <point x="71.5" y="-15.0" />
+              <point x="1120.5" y="460.0" />
+              <point x="1431.8893678160919" y="460.0" />
+              <point x="-97.66666666666674" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.GenericAPIView" target="rest_framework.views.APIView">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.mixins.DestroyModelMixin" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="1529.5560344827586" y="150.0" />
+              <point x="1329.6666666666665" y="150.0" />
+              <point x="6.0" y="15.0" />
+            </edge>
+            <edge source="django.views.generic.base.View" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="1169.1666666666665" y="150.0" />
+              <point x="1317.6666666666665" y="150.0" />
+              <point x="-6.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateDestroyAPIView" target="rest_framework.mixins.RetrieveModelMixin">
+              <point x="47.5" y="-15.0" />
+              <point x="2147.1666666666665" y="490.0" />
+              <point x="2122.685344827586" y="490.0" />
+              <point x="36.75" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.UpdateAPIView" target="rest_framework.mixins.UpdateModelMixin">
+              <point x="70.75" y="-15.0" />
+              <point x="2521.9166666666665" y="490.0" />
+              <point x="2606.037356321839" y="490.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.DestroyAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-71.5" y="-15.0" />
+              <point x="977.5" y="450.0" />
+              <point x="1137.5" y="450.0" />
+              <point x="-31.666666666666742" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.UpdateAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-70.75" y="-15.0" />
+              <point x="2380.4166666666665" y="410.0" />
+              <point x="1264.1666666666665" y="410.0" />
+              <point x="95.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-71.75" y="-15.0" />
+              <point x="1674.4166666666665" y="440.0" />
+              <point x="1200.8333333333335" y="440.0" />
+              <point x="31.666666666666742" y="15.0" />
+            </edge>
+            <edge source="rest_framework.mixins.UpdateModelMixin" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="2606.037356321839" y="130.0" />
+              <point x="1353.6666666666665" y="130.0" />
+              <point x="30.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.ListCreateAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="100.0" y="-15.0" />
+              <point x="250.0" y="420.0" />
+              <point x="1042.5" y="420.0" />
+              <point x="-126.66666666666674" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateAPIView" target="rest_framework.mixins.RetrieveModelMixin">
+              <point x="0.0" y="-15.0" />
+              <point x="2778.6666666666665" y="390.0" />
+              <point x="2196.185344827586" y="390.0" />
+              <point x="110.25" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveDestroyAPIView" target="rest_framework.mixins.DestroyModelMixin">
+              <point x="0.0" y="-15.0" />
+              <point x="1379.5" y="470.0" />
+              <point x="1529.5560344827586" y="470.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.CreateAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="69.5" y="-15.0" />
+              <point x="816.5" y="440.0" />
+              <point x="1105.8333333333335" y="440.0" />
+              <point x="-63.33333333333326" y="15.0" />
+            </edge>
+            <edge source="rest_framework.views.APIView" target="django.views.generic.base.View">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.ListCreateAPIView" target="rest_framework.mixins.ListModelMixin">
+              <point x="-100.0" y="-15.0" />
+              <point x="50.0" y="490.0" />
+              <point x="94.3060344827586" y="490.0" />
+              <point x="-66.75" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateDestroyAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="-142.5" y="-15.0" />
+              <point x="1957.1666666666665" y="430.0" />
+              <point x="1232.5" y="430.0" />
+              <point x="63.333333333333485" y="15.0" />
+            </edge>
+            <edge source="rest_framework.mixins.RetrieveModelMixin" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="2085.935344827586" y="140.0" />
+              <point x="1341.6666666666665" y="140.0" />
+              <point x="18.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.ListAPIView" target="rest_framework.mixins.ListModelMixin">
+              <point x="-65.0" y="-15.0" />
+              <point x="385.0" y="400.0" />
+              <point x="227.8060344827586" y="400.0" />
+              <point x="66.75" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.CreateAPIView" target="rest_framework.mixins.CreateModelMixin">
+              <point x="-69.5" y="-15.0" />
+              <point x="677.5" y="410.0" />
+              <point x="621.0560344827586" y="410.0" />
+              <point x="71.25" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.ListAPIView" target="rest_framework.generics.GenericAPIView">
+              <point x="65.0" y="-15.0" />
+              <point x="515.0" y="430.0" />
+              <point x="1074.1666666666665" y="430.0" />
+              <point x="-95.0" y="15.0" />
+            </edge>
+            <edge source="rest_framework.generics.RetrieveUpdateDestroyAPIView" target="rest_framework.mixins.DestroyModelMixin">
+              <point x="-47.5" y="-15.0" />
+              <point x="2052.1666666666665" y="420.0" />
+              <point x="1627.2227011494253" y="420.0" />
+              <point x="97.66666666666674" y="15.0" />
+            </edge>
+            <edge source="rest_framework.mixins.ListModelMixin" target="object">
+              <point x="0.0" y="-15.0" />
+              <point x="161.0560344827586" y="130.0" />
+              <point x="1293.6666666666665" y="130.0" />
+              <point x="-30.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7497470489038786" x="648.0" y="167.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/views/static.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="67" column="29" lean-forward="false" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxShop/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxShop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+          <folding>
+            <element signature="e#640#681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="60" column="27" lean-forward="true" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="293" column="4" lean-forward="false" selection-start-line="293" selection-start-column="4" selection-end-line="293" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MxShop/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/core/serializers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="63" column="8" lean-forward="false" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/django27/lib/python2.7/site-packages/django/core/serializers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="128" column="12" lean-forward="false" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/goods/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="36" column="46" lean-forward="false" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
